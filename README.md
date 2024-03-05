@@ -1,6 +1,6 @@
 <h1>Sentiment Analysis on Arizona Restaurant Reviews Using Deep Learning</h1>
 
-<p>This repository contains a deep learning-based approach to perform sentiment analysis on a dataset of restaurant reviews from Arizona. The project employs various deep learning models, including GRU and LSTM networks, leveraging pre-trained GloVe embeddings to enhance the feature representation.</p>
+<p>This repository contains a deep learning-based approach to perform sentiment analysis on a dataset of restaurant reviews from Arizona. I have used various deep learning models, including GRU and LSTM networks, leveraging pre-trained GloVe embeddings to enhance the feature representation.</p>
 
 <h2>Getting Started</h2>
 
